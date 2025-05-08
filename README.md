@@ -1,4 +1,4 @@
-# My Data Science Portfolio
+# My Data Analyst Portfolio
 
 Welcome to my data analyst portfolio! This repository showcases a collection of projects that demonstrate my skills in data analysis, visualization, and communication.
 
