@@ -12,7 +12,7 @@ Here's a summary of the projects included in this portfolio:
 
 | Project Name                               | Description                                                                     | Technologies Used             | Link                                           |
 | ------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------- |
-| Cyclistic Bike-Share Analysis              | Analyzed bike-share data using RStuio to identify user patterns and inform marketing strategies. | R, tidyverse, ggplot2, ploty        | [Link to your project folder, e.g.,  ./Cyclistic-Bike-Share-Analysis] |
+| Cyclistic Bike-Share Analysis              | Analyzed bike-share data using RStuio to identify user patterns and inform marketing strategies. | R, tidyverse, ggplot2, ploty        | [https://MarielaRamon-DA.github.io/Cyclistic%20Bike%20Share%20project.HTML] 
 | 
 
 ## Skills
