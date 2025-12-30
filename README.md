@@ -4,7 +4,7 @@ Welcome to my data analyst portfolio! This repository showcases projects demonst
 
 ## 👤 About Me
 
-Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Computer Science and Mathematics**. I also hold the **Google Data Analyst Certificate**. I'm passionate about leveraging data to solve complex problems and drive informed decision-making using **R**, **SQL**, and **Tableau**.
+Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Computer Science and Mathematics**. I also hold the **Google Data Analyst Certificate**. I'm passionate about leveraging data to solve complex problems and drive informed decision-making using **R**, **SQL**, **Spreadsheets**, and **Tableau**.
 
 ## 🚀 Projects
 
