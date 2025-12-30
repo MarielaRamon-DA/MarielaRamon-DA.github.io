@@ -24,6 +24,6 @@ Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Com
 
 ## 🤝 Connect with Me
 
-* **🔗 LinkedIn:** [Tu Link Aquí]
+* **🔗 LinkedIn:** [View Profile](http://www.linkedin.com/in/mariela-ramon-6b368732b)
 * **🐙 GitHub:** [MarielaRamon-DA](https://github.com/MarielaRamon-DA)
 * **📧 Email:** marielaramon7107@gmail.com
