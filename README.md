@@ -10,8 +10,8 @@ Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Com
 
 | Project Name | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
-| **Superstore Sales Analysis** | Business Intelligence project focused on transforming raw sales data into actionable insights. Leveraged statistical analysis to optimize performance, profitability, and customer behavior for strategic decision-making. |Tableau, Excel Online | [View Repo](https://github.com/MarielaRamon-DA/Tableau-Superstore-Analysis) |
-| **Bellabeat Case Study** | Analyzed smart device fitness data to identify user trends and provide high-level recommendations. | PowerPoint,Excel Desktop, SQL, Kaggle | [View Repo](https://github.com/MarielaRamon-DA/Bellabeat_Case_Study) |
+| **Superstore Sales Analysis** | Business Intelligence project focused on transforming raw sales data into actionable insights. Leveraged statistical analysis to optimize performance, profitability, and customer behavior for strategic decision-making. |Tableau, Slides | [View Repo](https://github.com/MarielaRamon-DA/Tableau-Superstore-Analysis) |
+| **Bellabeat Case Study** | Analyzed smart device fitness data to identify user trends and provide high-level recommendations. | PowerPoint, Excel Desktop, SQL, Kaggle | [View Repo](https://github.com/MarielaRamon-DA/Bellabeat_Case_Study) |
 | **Cyclistic Bike-Share** | Identified user patterns between casual riders and annual members to drive marketing growth. | RStudio, plotly, HTML | [View Project](https://MarielaRamon-DA.github.io/Cyclistic%20Bike%20Share%20project.HTML) |
 
 ## 🛠️ Technical Skills
@@ -19,7 +19,7 @@ Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Com
 * **🗄️ Structured Query Language (SQL)**
 * **📈 Analysis:** Data cleaning, EDA, statistical modeling, hypothesis testing, RFM Analysis.
 * **🎨 Data Visualization:** **Tableau**, ggplot2, plotly, Microsoft PowerPoint.
-* **💻 Tools:** RStudio, Git, Spreadsheets.
+* **💻 Tools:** RStudio, Git, Spreadsheets, Tableau, Kaggle.
 * **📜 Certifications:** Google Data Analyst Certificate.
 
 ## 🤝 Connect with Me
