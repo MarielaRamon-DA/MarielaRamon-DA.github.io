@@ -1,40 +1,29 @@
-# My Data Analyst Portfolio
+# 💼 My Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! This repository showcases a collection of projects that demonstrate my skills in data analysis, visualization, and communication.
+Welcome to my data analyst portfolio! This repository showcases projects demonstrating my skills in data analysis, visualization, and communication.
 
-## About Me
+## 👤 About Me
 
-Hi, I'm Mariela Ramon Corria graduate with a Bachelor of Science in Computer Science and Mathematics. I also hold the Google Data Analyst Certificate. I'm passionate about leveraging data to solve complex problems and drive informed decision-making. My skills include data analysis, data visualization, and programming in R. I am eager to apply my analytical and technical expertise to contribute to impactful projects in the field of data analysis.
+Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Computer Science and Mathematics**. I also hold the **Google Data Analyst Certificate**. I'm passionate about leveraging data to solve complex problems and drive informed decision-making using **R**, **SQL**, and **Tableau**.
 
-## Projects
+## 🚀 Projects
 
-Here's a summary of the projects included in this portfolio:
+| Project Name | Description | Technologies | Link |
+| :--- | :--- | :--- | :--- |
+| **Superstore Sales Analysis** | Analyzed profit trajectories across Furniture, Office Supplies, and Tech. Identified negative profit trends in best-sellers . |Tableau, Excel Online | [View Repo](https://github.com/MarielaRamon-DA/Superstore_Analysis) |
+| **Bellabeat Case Study** | Analyzed smart device fitness data to identify user trends and provide high-level recommendations. | PowerPoint,Excel Desktop, SQL, Kaggle | [View Repo](https://github.com/MarielaRamon-DA/Bellabeat_Case_Study) |
+| **Cyclistic Bike-Share** | Identified user patterns between casual riders and annual members to drive marketing growth. | RStudio, plotly, HTML | [View Project](https://MarielaRamon-DA.github.io/Cyclistic%20Bike%20Share%20project.HTML) |
 
-| Project Name                               | Description                                                                     | Technologies Used             | Link                                           |
-| ------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------- |
-| Cyclistic Bike-Share Analysis              | Analyzed bike-share data using RStuio to identify user patterns and inform marketing strategies. | R, tidyverse, ggplot2, ploty        | [https://MarielaRamon-DA.github.io/Cyclistic%20Bike%20Share%20project.HTML] 
-| 
+## 🛠️ Technical Skills
 
-## Skills
+* **🗄️ Structured Query Language (SQL)**
+* **📈 Analysis:** Data cleaning, EDA, statistical modeling, hypothesis testing, RFM Analysis.
+* **🎨 Data Visualization:** **Tableau**, ggplot2, plotly, Microsoft PowerPoint.
+* **💻 Tools:** RStudio, Git, Spreadsheets.
+* **📜 Certifications:** Google Data Analyst Certificate.
 
-Here's a summary of my technical skills:
+## 🤝 Connect with Me
 
-* **Structured Query Language (SQL)** 
-* **Spreadsheets** Data cleaning, exploratory data analysis, statistical modeling, hypothesis testing
-* **Data Visualization:** ggplot2, ploty, Tableau, Microsoft Powerpoint, Google Slides.
-* **R Statistical programming** 
-* **Tools:** Git, RStudio.
-* **Certifications:** Google Data Analyst Certificate
-* **Other:** Strong analytical and problem-solving skills, data-driven communication, collaboration, research, Adaptability, Attention to detail.
-
-## Connect with Me
-
-[Include ways for people to contact you or find more about your work, e.g.:]
-
-* LinkedIn: [Your; LinkedIn Profile URL]
-* GitHub: [hhttp://githubMarielaRamon-DA.github.io]
-* Email: [marielaramon7107@gmail.com]
-
-## Feedback
-
-I welcome any feedback on my projects. Please feel free to open an issue or contact me directly with your suggestions.
+* **🔗 LinkedIn:** [Tu Link Aquí]
+* **🐙 GitHub:** [MarielaRamon-DA](https://github.com/MarielaRamon-DA)
+* **📧 Email:** marielaramon7107@gmail.com
