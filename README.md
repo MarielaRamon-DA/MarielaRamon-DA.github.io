@@ -10,7 +10,7 @@ Hi, I'm **Mariela Ramon Corria**, a graduate with a **Bachelor of Science in Com
 
 | Project Name | Description | Technologies | Link |
 | :--- | :--- | :--- | :--- |
-| **Superstore Sales Analysis** | Analyzed profit trajectories across Furniture, Office Supplies, and Tech. Identified negative profit trends in best-sellers . |Tableau, Excel Online | [View Repo](https://github.com/MarielaRamon-DA/Superstore_Analysis) |
+| **Superstore Sales Analysis** | Business Intelligence project focused on transforming raw sales data into actionable insights. Leveraged statistical analysis to optimize performance, profitability, and customer behavior for strategic decision-making. |Tableau, Excel Online | [View Repo](https://github.com/MarielaRamon-DA/Superstore_Analysis) |
 | **Bellabeat Case Study** | Analyzed smart device fitness data to identify user trends and provide high-level recommendations. | PowerPoint,Excel Desktop, SQL, Kaggle | [View Repo](https://github.com/MarielaRamon-DA/Bellabeat_Case_Study) |
 | **Cyclistic Bike-Share** | Identified user patterns between casual riders and annual members to drive marketing growth. | RStudio, plotly, HTML | [View Project](https://MarielaRamon-DA.github.io/Cyclistic%20Bike%20Share%20project.HTML) |
 
