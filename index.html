@@ -9,16 +9,30 @@
 </head>
 <body class="is-preload">
 <div id="wrapper" class="fade-in">
-<header id="header-image" style="width:100%;background-color:#0b1622;line-height:0;overflow:hidden;text-align:center;">
+<style>
+.honeycomb-bg {
+background-color: #0b1622;
+background-image:  
+linear-gradient(30deg, #0d1a29 12%, transparent 12.5%, transparent 87%, #0d1a29 87.5%, #0d1a29),
+linear-gradient(150deg, #0d1a29 12%, transparent 12.5%, transparent 87%, #0d1a29 87.5%, #0d1a29),
+linear-gradient(30deg, #0d1a29 34%, transparent 34.5%, transparent 65%, #0d1a29 65.5%, #0d1a29),
+linear-gradient(150deg, #0d1a29 34%, transparent 34.5%, transparent 65%, #0d1a29 65.5%, #0d1a29),
+linear-gradient(60deg, #112233 34%, transparent 34.5%, transparent 65%, #112233 65.5%, #112233),
+linear-gradient(240deg, #112233 34%, transparent 34.5%, transparent 65%, #112233 65.5%, #112233);
+background-size: 80px 140px;
+background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+</style>
+<header id="header-image" class="honeycomb-bg" style="width:100%;line-height:0;overflow:hidden;text-align:center;border-bottom:none;">
 <img src="images/main_hub.jpg" alt="Data Analytics Portfolio Header" style="max-width:100%;height:auto;max-height:65vh;object-fit:contain;display:inline-block;">
 </header>
-<section id="intro" style="background-color:#0b1622;padding:1.5em 0;text-align:center;color:#ffffff;min-height:35vh;display:flex;flex-direction:column;justify-content:center;position:relative;">
-<div style="width:95%;max-width:1400px;margin:0 auto;">
-<h2 style="color:#00ffcc;margin-bottom:0.3em;font-size:1.8rem;">WELCOME TO MY PORTFOLIO</h2>
+<section id="intro" class="honeycomb-bg" style="padding:2em 0;text-align:center;color:#ffffff;min-height:35vh;display:flex;flex-direction:column;justify-content:center;position:relative;border-top:none;">
+<div style="width:95%;max-width:1400px;margin:0 auto;background:rgba(11, 22, 34, 0.7);padding:20px;border-radius:15px;">
+<h2 style="color:#00ffcc;margin-bottom:0.3em;font-size:1.8rem;text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">WELCOME TO MY PORTFOLIO</h2>
 <p style="font-size:1.15rem;line-height:1.4;margin-bottom:0;width:100%;">I hold a <strong>Bachelor of Science in Computer Science and Mathematics</strong>, complemented by the <strong>Google Data Analytics Professional Certificate</strong>. I am passionate about transforming raw data into meaningful stories and actionable insights. My technical toolkit includes <strong>SQL, R, Spreadsheets, and Tableau</strong>, allowing me to bridge the gap between complex numbers and strategic decision-making.</p>
 </div>
-<div style="position:absolute;bottom:15px;right:25px;">
-<ul class="actions" style="list-style:none;padding:0;margin:0;"><li><a href="#technical-skills" class="button icon solid solo fa-arrow-down scrolly" style="border-color:#00ffcc;color:#00ffcc;border-radius:50%;width:45px;height:45px;line-height:45px;display:flex;align-items:center;justify-content:center;"></a></li></ul>
+<div style="position:absolute;bottom:20px;right:30px;">
+<ul class="actions" style="list-style:none;padding:0;margin:0;"><li><a href="#technical-skills" class="button icon solid solo fa-arrow-down scrolly" style="border-color:#00ffcc;color:#00ffcc;border-radius:50%;width:50px;height:50px;display:flex;align-items:center;justify-content:center;background:rgba(11, 22, 34, 0.8);"></a></li></ul>
 </div>
 </section>
 <section id="technical-skills" style="background-color:#050a10;padding:4em 2.5em;color:#ffffff;text-align:center;border-top:1px solid rgba(0,255,204,0.1);">
@@ -139,6 +153,7 @@ Presentation</a></h2>
 </body>
 
 </html>
+
 
 
 
